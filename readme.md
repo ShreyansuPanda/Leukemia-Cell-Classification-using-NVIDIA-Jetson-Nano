@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on classifying and identifying leukemia cells from normal cells using deep learning techniques. Leveraging the power of the NVIDIA Jetson Nano and ResNet18 architecture, the model aims to distinguish between leukemia and normal cells with improved accuracy. This solution could contribute to faster and more efficient diagnostics of leukemia.
+This project focuses on classifying and identifying leukaemia cells from normal cells using deep learning techniques. Leveraging the power of the NVIDIA Jetson Nano and ResNet18 architecture, the model aims to distinguish between leukaemia and normal cells with improved accuracy. This solution could contribute to faster and more efficient diagnostics of leukaemia.
 
 ## Technologies Used
 - **Python**: The core programming language for the project.
@@ -15,10 +15,10 @@ This project focuses on classifying and identifying leukemia cells from normal c
 - [Leukemia Classification Dataset 1](https://www.kaggle.com/datasets/hamzairfan503/leukemia-classification-dataset/data)
 - [Leukemia Classification Dataset 2](https://www.kaggle.com/datasets/andrewmvd/leukemia-classification/discussion/293071)
 
-The datasets consist of labeled images, enabling the model to learn to classify leukemia cells from normal ones.
+The datasets consist of labelled images, enabling the model to learn to classify leukaemia cells from normal ones.
 
 ## Goal
-The primary goal of this project is to **improve accuracy** in classifying leukemia cells to enhance early detection and diagnostic processes.
+The primary goal of this project is to **improve accuracy** in classifying leukaemia cells to enhance early detection and diagnostic processes.
 
 ## Accessories & Resources:
 - Jetson Developer Kit 
@@ -30,8 +30,8 @@ The primary goal of this project is to **improve accuracy** in classifying leuke
 - Keyboard & Mouse (wireless)
 - Memory card (more than 32 GB)
 - Optional: cooling fan, micro-USB cable(for headless mode)
-- Jetson-Inference With Docker File: [https://github.com/dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference
-)
+- Jetson-Inference With Docker File: [https://github.com/dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference)
+- Pre-trained model: [](https://drive.google.com/drive/folders/1galH0g3vvRG6K12Bl6jAvCBWPM5r3aKI?usp=sharing)
 
 
 
@@ -60,7 +60,7 @@ Copy code
 
 ## Introduction
 
-This project focuses on classifying and identifying leukemia cells from normal cells using deep learning techniques. Leveraging the power of the NVIDIA Jetson Nano and ResNet18 architecture, the model aims to distinguish between leukemia and normal cells with improved accuracy. This solution could contribute to faster and more efficient diagnostics of leukemia.
+This project focuses on classifying and identifying leukaemia cells from normal cells using deep learning techniques. Leveraging the power of the NVIDIA Jetson Nano and ResNet18 architecture, the model aims to distinguish between leukaemia and normal cells with improved accuracy. This solution could contribute to faster and more efficient diagnostics of leukemia.
 
 ## Technologies Used
 - **Python**: The core programming language for the project.
@@ -73,10 +73,10 @@ This project focuses on classifying and identifying leukemia cells from normal c
 - [Leukemia Classification Dataset 1](https://www.kaggle.com/datasets/hamzairfan503/leukemia-classification-dataset/data)
 - [Leukemia Classification Dataset 2](https://www.kaggle.com/datasets/andrewmvd/leukemia-classification/discussion/293071)
 
-The datasets consist of labeled images, enabling the model to learn to classify leukemia cells from normal ones.
+The datasets consist of labelled images, enabling the model to learn to classify leukaemia cells from normal ones.
 
 ## Goal
-The primary goal of this project is to **improve accuracy** in classifying leukemia cells to enhance early detection and diagnostic processes.
+The primary goal of this project is to **improve accuracy** in classifying leukaemia cells to enhance early detection and diagnostic processes.
 
 ## Setup and Training Instructions
 
@@ -92,7 +92,7 @@ The primary goal of this project is to **improve accuracy** in classifying leuke
   ```bash
   git clone --recursive https://github.com/dusty-nv
   
-Wait for the download to complete (may take 10-15 minutes on slow connections).
+Wait for the download to complete (it may take 10-15 minutes on slow connections).
 ### 3. Running the Docker Container:
 - Change directory:
   ```bash
