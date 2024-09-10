@@ -31,7 +31,7 @@ The primary goal of this project is to **improve accuracy** in classifying leuka
 - Memory card (more than 32 GB)
 - Optional: cooling fan, micro-USB cable(for headless mode)
 - Jetson-Inference With Docker File: [https://github.com/dusty-nv/jetson-inference](https://github.com/dusty-nv/jetson-inference)
-- Pre-trained model: [](https://drive.google.com/drive/folders/1galH0g3vvRG6K12Bl6jAvCBWPM5r3aKI?usp=sharing)
+- Pre-trained model: [Model](https://drive.google.com/drive/folders/1galH0g3vvRG6K12Bl6jAvCBWPM5r3aKI?usp=sharing)
 
 
 
