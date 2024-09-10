@@ -47,7 +47,7 @@ The primary goal of this project is to **improve accuracy** in classifying leuka
 ### 2.  Downloading Jetson Inference with Docker Container:
 -  Open Terminal and run:
   ```bash
-  git clone --recursive https://github.com/dusty-nv
+  git clone --recursive https://github.com/dusty-nv/jetson-inference
 ```
 Wait for the download to complete (may take 10-15 minutes on slow connections).
 
