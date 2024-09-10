@@ -69,7 +69,7 @@ Wait for the download to complete (may take 10-15 minutes on slow connections).
 ### 5. Training the Dataset:
 - Start training:
   ```bash
-  python3 model_main.py --model-dir=models/Leukemia --batch-size=4 --workers=1 --epochs=100 data/Leukemia
+  python3 train.py --model-dir=models/Leukemia --batch-size=4 --workers=1 --epochs=100 data/Leukemia
   ```
 - Training takes around 12-14 hours and the Jetson Nano may get hot, so avoid touching it during training.
 ### 6. Export the Model:
