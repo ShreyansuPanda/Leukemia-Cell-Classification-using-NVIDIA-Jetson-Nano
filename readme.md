@@ -50,49 +50,7 @@ The primary goal of this project is to **improve accuracy** in classifying leuka
   git clone --recursive https://github.com/dusty-nv/jetson-inference
 ```
 Wait for the download to complete (may take 10-15 minutes on slow connections).
-
-### 3. 
-Here is your README.md file formatted for GitHub:
-
-markdown
-Copy code
-# Leukemia Cell Classification using NVIDIA Jetson Nano
-
-## Introduction
-
-This project focuses on classifying and identifying leukaemia cells from normal cells using deep learning techniques. Leveraging the power of the NVIDIA Jetson Nano and ResNet18 architecture, the model aims to distinguish between leukaemia and normal cells with improved accuracy. This solution could contribute to faster and more efficient diagnostics of leukemia.
-
-## Technologies Used
-- **Python**: The core programming language for the project.
-- **NVIDIA Jetson Nano**: A compact, powerful computer for running AI inference models at the edge.
-- **ResNet18**: A deep learning architecture employed for image classification.
-- **Jetson Inference**: NVIDIA’s inference toolkit for deploying the deep learning model.
-- **Deep Learning**: Applied to enhance the image classification task.
-
-## Dataset
-- [Leukemia Classification Dataset 1](https://www.kaggle.com/datasets/hamzairfan503/leukemia-classification-dataset/data)
-- [Leukemia Classification Dataset 2](https://www.kaggle.com/datasets/andrewmvd/leukemia-classification/discussion/293071)
-
-The datasets consist of labelled images, enabling the model to learn to classify leukaemia cells from normal ones.
-
-## Goal
-The primary goal of this project is to **improve accuracy** in classifying leukaemia cells to enhance early detection and diagnostic processes.
-
-## Setup and Training Instructions
-
-### 1. Preparing for Setup:
-- Setup guide for Jetson Nano Developer Tool Kit:
-  - Connect SD card to your PC/Laptop.
-  - Download the SD card image.
-  - Download, install, and launch Etcher.
-  - Format the SD card with SD Card Formatter.
-
-### 2. Downloading Jetson Inference with Docker Container:
-- Open Terminal and run:
-  ```bash
-  git clone --recursive https://github.com/dusty-nv
   
-Wait for the download to complete (it may take 10-15 minutes on slow connections).
 ### 3. Running the Docker Container:
 - Change directory:
   ```bash
